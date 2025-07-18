@@ -1,0 +1,7 @@
+App.js
+app.json
+assets/
+node_modules/
+.vscode/
+.expo/
+.git/

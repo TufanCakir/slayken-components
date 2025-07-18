@@ -5,7 +5,11 @@
   "description": "Stylishe Slayken UI-Komponenten für React Native (Header, Footer, Calculator)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deinname/slayken-components"
+    "url": "https://github.com/TufanCakir/slayken-components"
+  },
+  "homepage": "https://github.com/TufanCakir/slayken-components#readme",
+  "bugs": {
+    "url": "https://github.com/TufanCakir/slayken-components/issues"
   },
   "author": "Tufan Cakir",
   "license": "MIT",
